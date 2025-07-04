@@ -1,11 +1,15 @@
 {
   "codecup": {
-    "blocks": [
-      "codecup.landing"
-    ]
+    "blocks": ["codecup.landing"]
+  },
+  "cyberestilos": {
+    "blocks": ["cyberestilos.landing"]
   },
   "codecup.landing": {
     "component": "CodeCup"
+  },
+  "cyberestilos.landing": {
+    "component": "CyberEstilos"
   },
   "codecup.rules": {
     "component": "CodeCupRules"

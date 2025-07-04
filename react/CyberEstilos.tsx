@@ -18,7 +18,7 @@ function initializeReactGA() {
   ReactGA.initialize('UA-139462697-1')
   ReactGA.pageview('/')
 }
-class Landing extends Component {
+class CyberEstilos extends Component {
   public componentDidMount() {
     initializeReactGA()
   }
@@ -70,4 +70,4 @@ class Landing extends Component {
   }
 }
 
-export default Landing
+export default CyberEstilos

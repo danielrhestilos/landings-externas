@@ -4,5 +4,8 @@
   },
   "codecup.rules": {
     "path": "/testrules"
+  },
+  "cyberestilos.landing": {
+    "path": "/cyber-estilos"
   }
 }

@@ -1,8 +1,8 @@
 {
   "codecup.landing": {
-    "path": "/codecup"
+    "path": "/testcodecup"
   },
   "codecup.rules": {
-    "path": "/rules"
+    "path": "/testrules"
   }
 }
